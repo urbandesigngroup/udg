@@ -1,0 +1,443 @@
+#preservation{
+    position: absolute;
+    top: 130px;
+    left:335px;
+    width: 600px;
+    height: 94px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: 0 0;
+}
+
+
+.slideshow-wrapper{ 
+    position: absolute;
+    top:307px;
+    left:750px;
+    width:627px;
+    height: auto;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-size:12px;
+    
+    
+}
+
+
+.slideshow-wrapper2{ 
+    position: absolute;
+    top:866px;
+    left:750px;
+    width:627px;
+    height:443px;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-size:12px;
+}
+
+
+
+.slideshow-wrapper3{ 
+    position: absolute;
+    top:1413px;
+    left:750px;
+    width:627px;
+    height:443px;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-size:12px;
+
+}
+
+
+.slideshow-wrapper4{ 
+    position:absolute;
+    top:1980px;
+    left:750px;
+    width:627px;
+    height:443px;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-size:12px;
+
+}
+
+.slideshow-wrapper5{ 
+    position: absolute;
+    top:2538px;
+    left:750px;
+    width:627px;
+    height:443px;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-size:12px;
+ 
+}
+
+
+
+.slideshow-wrapper6{ 
+    position: absolute;
+    top:3095px;
+    left:750px;
+    width:627px;
+    height:443px;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-size:12px;
+ 
+}
+
+
+.slideshow-wrapper7{ 
+    position: absolute;
+    top:3690px;
+    left:750px;
+    width:627px;
+    height:443px;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-size:12px;
+ 
+}
+
+
+.prev{
+    word-spacing: 570px;
+}
+
+.style-ij4kywkg1[data-disabled="false"] .style-ij4kywkg1link {
+    background-color: rgba(255, 255, 255, 1);
+    border: solid rgba(70, 71, 81, 1) 2px;
+    cursor: pointer !important;
+}
+
+
+.element.style {
+}
+
+.style-ij4kywkg1[data-state~="shouldUseFlex"] .style-ij4kywkg1label {
+    margin: 0;
+}
+<style>…</style>
+.style-ij4kywkg1label {
+    font: normal normal normal 8px/1.2em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif;
+    transition: color 0.1s ease 0s;
+    color: #ffff;
+    display: inline-block;
+    margin: calc(0* 2px) 2px 0;
+    position: relative;
+    white-space: nowrap;
+}
+
+a:link.style-ij4kywkg1label{
+  text-decoration: none;
+  color: #ffff;
+
+}
+
+a:visited.style-ij4kywkg1label {
+color: white;
+
+}
+
+a:hover.style-ij4kywkg1label{
+    color: #A7D500;
+}
+
+
+
+
+
+#style-line1{
+    position: absolute;
+    border-bottom: 5px solid rgba(70, 71, 81, 1);
+    left: -47px;
+    width: 1080px;
+    top: 156px;
+    height: 5px;
+}
+
+
+#style-line2{
+    position: absolute;
+    border-bottom: 5px solid rgba(70, 71, 81, 1);
+    left: -47px;
+    width: 1080px;
+    height: 5px;
+}
+
+#style-line3{
+    position: absolute;
+    border-bottom: 5px solid rgba(70, 71, 81, 1);
+    left: -47px;
+    width: 1080px;
+    height: 5px;
+}
+
+#style-line4{
+    position: absolute;
+    border-bottom: 5px solid rgba(70, 71, 81, 1);
+    left: -47px;
+    width: 1080px;
+    height: 5px;
+}
+
+#style-line5{
+    position: absolute;
+    border-bottom: 5px solid rgba(70, 71, 81, 1);
+    left: -47px;
+    width: 1080px;
+    height: 5px;
+}
+
+#style-line6{
+    position: absolute;
+    z-index: 5;
+    border-bottom: 5px solid rgba(70, 71, 81, 1);
+    left: -47px;
+    width: 1080px;
+    height: 5px;
+}
+
+#style-line7{
+    position: absolute;
+    border-bottom: 5px solid rgba(70, 71, 81, 1);
+    left: -47px;
+    width: 1080px;
+    height: 5px;
+}
+
+#style-line8{
+    position: absolute;
+    border-bottom: 5px solid rgba(70, 71, 81, 1);
+    left: -47px;
+    width: 1080px;
+    height: 5px;
+}
+
+
+
+
+
+
+
+#fallsway{
+    position: absolute;
+    top: 295px;
+    left:350px;
+    width: 600px;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: 0 0;
+}
+
+#fallsway_pic{
+   position: absolute;
+    top:307px;
+    left:750px;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    
+    }
+
+
+
+
+
+
+
+#zerofox{
+     position: absolute;
+    top:854px;
+    left:350px;
+    width:318px;
+    height: 485px;
+    margin: 0; 
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+}
+
+#zerofox_pic{
+    position: absolute;
+    top:866px;
+    left:750px;
+    width:627px;
+    height:443px;
+    text-decoration: none;
+}
+
+#central{
+ position: absolute;
+    top:1364px;
+    left:350px;
+    width: 318px;
+    height: 354px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: 0 0;
+    }
+
+#comp-central_1{
+    position: absolute;
+    top:1780px;
+    left:350px;
+    width: 318px;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: 0 0;
+    
+}
+
+#central_pic{
+    position: absolute;
+    top:1425px;
+    left:750px;
+    width:627px;
+    height:443px;
+    text-decoration: none;
+    }
+
+
+
+
+
+
+
+#gyro{
+    position: absolute;
+    top:1972px;
+    left:340px;
+    width: 318px;
+    height: 417px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: 0 0;
+}
+
+#comp-gyro_1{
+    position: absolute;
+    top:2390px;
+    left:350px;
+    width: 318px;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: 0 0;
+    
+}
+
+#gyro_pic{
+    position: absolute;
+    top:1983px;
+    left:750px;
+    width:627px;
+    height:443px;
+    text-decoration: none;
+    }
+
+
+#pontiac{
+   position: absolute;
+    top:2531px;
+    left:350px;
+    width: 600px;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: 0 0;
+    }
+
+
+#comp-owner{
+    position: absolute;
+  
+    top:2800px;
+    left:350px;
+    width:318px;
+    height: 72px;
+    margin: 0; 
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+}
+
+#comp-mill{
+    position: absolute;
+  
+    top:2880px;
+    left:350px;
+    width:318px;
+    height: 72px;
+    margin: 0; 
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+}
+
+
+
+#pontiac_pic{
+    position: absolute;
+    top:2540px;
+    left:750px;
+    width:627px;
+    height:443px;
+    text-decoration: none;
+    }
+
+
+#west{
+      position: absolute;
+    top:3087px;
+    left:350px;
+    width: 600px;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: 0 0;
+    }
+
+#west_pic{
+   position: absolute;
+    top:3097px;
+    left:750px;
+    width:627px;
+    height:443px;
+    text-decoration: none;
+    }
+
+
+
+

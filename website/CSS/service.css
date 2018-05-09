@@ -1,0 +1,84 @@
+#services{
+    position: absolute;
+    top: 130px;
+    left:335px;
+    width: 362px;
+    height: 60px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: 0 0;
+}
+
+
+.style-ij4kywkg1[data-disabled="false"] .style-ij4kywkg1link {
+    background-color: rgba(255, 255, 255, 1);
+    border: solid rgba(70, 71, 81, 1) 2px;
+    cursor: pointer !important;
+}
+
+
+.element.style {
+}
+
+.style-ij4kywkg1[data-state~="shouldUseFlex"] .style-ij4kywkg1label {
+    margin: 0;
+}
+<style>…</style>
+.style-ij4kywkg1label {
+    font: normal normal normal 8px/1.2em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif;
+    transition: color 0.1s ease 0s;
+    color: #ffff;
+    display: inline-block;
+    margin: calc(0* 2px) 2px 0;
+    position: relative;
+    white-space: nowrap;
+}
+
+a:link.style-ij4kywkg1label{
+  text-decoration: none;
+  color: #ffff;
+
+}
+
+a:visited.style-ij4kywkg1label {
+color: white;
+
+}
+
+a:hover.style-ij4kywkg1label{
+    color: #A7D500;
+}
+
+
+#style-line1{
+    position: absolute;
+    border-bottom: 5px solid rgba(70, 71, 81, 1);
+    left: -47px;
+    width: 1080px;
+    top: 156px;
+    height: 5px;
+}
+
+
+#style-line2{
+    position: absolute;
+    border-bottom: 5px solid rgba(70, 71, 81, 1);
+    left: -47px;
+    width: 1080px;
+    height: 5px;
+}
+
+.font_7 {
+    position: absolute;
+    top:50px;
+    left: 330px;
+    color: #232429;
+    width: 1020px;
+}
+
+
+
+

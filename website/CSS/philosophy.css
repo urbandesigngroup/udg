@@ -1,0 +1,97 @@
+#philosophy{
+    position: absolute;
+    top: 130px;
+    left:335px;
+    width: 600px;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: 0 0;
+}
+
+
+.style-ij4kywkg1[data-disabled="false"] .style-ij4kywkg1link {
+    background-color: rgba(255, 255, 255, 1);
+    border: solid rgba(70, 71, 81, 1) 2px;
+    cursor: pointer !important;
+}
+
+
+.element.style {
+}
+
+.style-ij4kywkg1[data-state~="shouldUseFlex"] .style-ij4kywkg1label {
+    margin: 0;
+}
+<style>…</style>
+.style-ij4kywkg1label {
+    font: normal normal normal 8px/1.2em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif;
+    transition: color 0.1s ease 0s;
+    color: #ffff;
+    display: inline-block;
+    margin: calc(0* 2px) 2px 0;
+    position: relative;
+    white-space: nowrap;
+}
+
+#style-line1{
+    position: absolute;
+    border-bottom: 5px solid rgba(70, 71, 81, 1);
+    left: -47px;
+    width: 1080px;
+    top: 156px;
+    height: 5px;
+}
+
+
+
+
+.font_4{
+    font-family: 'Anton', sans-serif;
+    font-size: 30PX;
+    letter-spacing: 1PX;
+    color: #A7D500;
+    position: absolute;
+    top: 285px;
+    left:360px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: 0 0;
+}
+
+.font_8{
+    position: absolute;
+    letter-spacing: 0.5px;
+    
+    top: 140px;
+    left:360px;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: 0 0;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+#pic{
+    position: absolute;
+    top: 610px;
+    left:32%;
+    
+}
+
+
+#style-line2{
+    position: absolute;
+    border-bottom: 5px solid rgba(70, 71, 81, 1);
+    left: -47px;
+    width: 1080px;
+    height: 5px;
+}
